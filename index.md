@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at The Chinese University of Hong Kong/Department of Electronic Engineering/RPAI Lab. My supervisor is Prof. Hongliang Ren.
+I am a Ph.D. student at The Chinese University of Hong Kong/Department of Electronic Engineering/RPAI Lab. My supervisor is Prof. Hongliang Ren. 
+
 I got my bachelor's degree at Zhejiang University/College of Control Science and Engineering, and my master's degree at Zhejiang University/College of Optical Science and Engineering.
 
 ## Research Interests
