@@ -29,7 +29,7 @@ main:
     authors: Lin Yao, Yuan Zhou, Kaiyuan Liu, Xiaoting Yin, <strong>Xiaofeng Deng</strong>, Zhihua Ding, Peng Li*
     conference_short: Photonics
     conference: Photonics, 2022.
-    image: ./assets/img/PHOTONICS.jpg
+    image: ./assets/img/PHTONICS.jpg
     
 
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
