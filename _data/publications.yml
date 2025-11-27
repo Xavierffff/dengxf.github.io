@@ -3,25 +3,25 @@ main:
   - title: Fine-grained Classification Reveals Angiopathological Heterogeneity of Port Wine Stains Using OCT and OCTA Features
     authors: <strong>Xiaofeng Deng</strong>, Defu Chen, Bowen Liu, Xiwan Zhang, Haixia Qiu, Wu Yuan, Hongliang Ren* (*Corresponding authors)
     conference_short: JBHI
-    conference: IEEE Journal of Biomedical and Health Informatics, 2025.
+    conference: IEEE Journal of Biomedical and Health Informatics (JBHI), 2025.
     page: https://ieeexplore.ieee.org/document/10904246/
 
   - title: Dynamic inverse SNR-decorrelation OCT angiography with GPU acceleration
     authors: <strong>Xiaofeng Deng</strong>, Kaiyuan Liu, Tiepei Zhu, Dayou Guo, Xiaoting Yin, Lin Yao, Zhihua Ding, Juan Ye, Peng Li*
     conference_short: BOE
-    conference: Biomedical Optics Express, 2022.
+    conference: Biomedical Optics Express (BOE), 2022.
     page: https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-6-3615
 
   - title: Single-fiber Forward-viewing A-scan Optical Coherence Tomography Allows Robot-assisted Blood Vessel Detection and Hemodynamic Monitoring in Complex Luminal Anatomies (A Phantom Study)
     authors: <strong>Xiaofeng Deng</strong>, Tao Zhang, Ruiyang Zhang, Tinghua Zhang, Jingyu Xiao, Chia-Hung Chen, Wu Yuan, Hongliang Ren*
     conference_short: ICBIR
-    conference: International Conference on Biomimetic Intelligence and Robotics, 2025.
+    conference: International Conference on Biomimetic Intelligence and Robotics (ICBIR), 2025.
     page: https://www.sciencedirect.com/science/article/pii/S187705092503457X
 
   - title: Advances in swept-source optical coherence tomography and optical coherence tomography angiography
     authors: Fang Zheng, <strong>Xiaofeng Deng</strong>, Qi Zhang, Jingliang He, Panpan Ye, Shan Liu, Peng Li, Jian Zhou, Xiaoyun Fang*
     conference_short: AOPR
-    conference: Advances in Ophthalmology Practice and Research, 2023.
+    conference: Advances in Ophthalmology Practice and Research (AOPR), 2023.
     page: https://www.sciencedirect.com/science/article/pii/S2667376222000749
 
   - title: Endoscopic OCT angiography using clinical proximal-end scanning catheters
