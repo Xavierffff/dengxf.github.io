@@ -12,6 +12,12 @@ main:
     conference: Biomedical Optics Express, 2022.
     page: https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-6-3615
 
+  - title: Single-fiber Forward-viewing A-scan Optical Coherence Tomography Allows Robot-assisted Blood Vessel Detection and Hemodynamic Monitoring in Complex Luminal Anatomies: A Phantom Study
+    authors: <strong>Xiaofeng Deng</strong>, Tao Zhang, Ruiyang Zhang, Tinghua Zhang, Jingyu Xiao, Chia-Hung Chen, Wu Yuan, Hongliang Ren*
+    conference_short: ICBIR
+    conference: International Conference on Biomimetic Intelligence and Robotics, 2025.
+    page: https://www.sciencedirect.com/science/article/pii/S187705092503457X
+
   - title: Advances in swept-source optical coherence tomography and optical coherence tomography angiography
     authors: Fang Zheng, <strong>Xiaofeng Deng</strong>, Qi Zhang, Jingliang He, Panpan Ye, Shan Liu, Peng Li, Jian Zhou, Xiaoyun Fang*
     conference_short: AOPR
