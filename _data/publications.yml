@@ -5,30 +5,31 @@ main:
     conference_short: JBHI
     conference: IEEE Journal of Biomedical and Health Informatics <strong>(JBHI)</strong>, 2025.
     page: https://ieeexplore.ieee.org/document/10904246/
+    image: ./assets/img/JBHI.jpg
 
   - title: Dynamic inverse SNR-decorrelation OCT angiography with GPU acceleration
     authors: <strong>Xiaofeng Deng</strong>, Kaiyuan Liu, Tiepei Zhu, Dayou Guo, Xiaoting Yin, Lin Yao, Zhihua Ding, Juan Ye, Peng Li*
     conference_short: BOE
     conference: Biomedical Optics Express <strong>(BOE)</strong>, 2022.
-    page: https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-6-3615
+    image: ./assets/img/BOE.jpg
 
   - title: Single-fiber Forward-viewing A-scan Optical Coherence Tomography Allows Robot-assisted Blood Vessel Detection and Hemodynamic Monitoring in Complex Luminal Anatomies (A Phantom Study)
     authors: <strong>Xiaofeng Deng</strong>, Tao Zhang, Ruiyang Zhang, Tinghua Zhang, Jingyu Xiao, Chia-Hung Chen, Wu Yuan, Hongliang Ren*
     conference_short: ICBIR
     conference: International Conference on Biomimetic Intelligence and Robotics <strong>(ICBIR)</strong>, 2025.
-    page: https://www.sciencedirect.com/science/article/pii/S187705092503457X
+    image: ./assets/img/ICBIR.jpg
 
   - title: Advances in swept-source optical coherence tomography and optical coherence tomography angiography
     authors: Fang Zheng, <strong>Xiaofeng Deng</strong>, Qi Zhang, Jingliang He, Panpan Ye, Shan Liu, Peng Li, Jian Zhou, Xiaoyun Fang*
     conference_short: AOPR
     conference: Advances in Ophthalmology Practice and Research <strong>(AOPR)</strong>, 2023.
-    page: https://www.sciencedirect.com/science/article/pii/S2667376222000749
+    image: ./assets/img/AOPR.jpg
 
   - title: Endoscopic OCT angiography using clinical proximal-end scanning catheters
     authors: Lin Yao, Yuan Zhou, Kaiyuan Liu, Xiaoting Yin, <strong>Xiaofeng Deng</strong>, Zhihua Ding, Peng Li*
     conference_short: Photonics
     conference: Photonics, 2022.
-    page: https://www.mdpi.com/2304-6732/9/5/329
+    image: ./assets/img/PHOTONICS.jpg
     
 
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
