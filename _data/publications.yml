@@ -1,11 +1,11 @@
 main:
 
   - title: Fine-grained Classification Reveals Angiopathological Heterogeneity of Port Wine Stains Using OCT and OCTA Features
-    authors: <strong>Xiaofeng Deng</strong>, Xiaofeng Deng, Defu Chen, Bowen Liu, Xiwan Zhang, Haixia Qiu, Wu Yuan, Hongliang Ren* (*Corresponding authors)
+    authors: <strong>Xiaofeng Deng</strong>, Defu Chen, Bowen Liu, Xiwan Zhang, Haixia Qiu, Wu Yuan, Hongliang Ren* (*Corresponding authors)
     conference_short: JBHI
     conference: IEEE Journal of Biomedical and Health Informatics, 2025.
     link: https://ieeexplore.ieee.org/document/10904246/
-    image: ./assets/img/teaser_example_2.png
+    #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
